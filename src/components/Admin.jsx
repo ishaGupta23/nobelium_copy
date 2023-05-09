@@ -79,7 +79,7 @@ export default function Admin() {
   return (
     <>
       <div style={{ textAlign: "center", fontSize: "2rem" }}>
-        <Link to="/" className="admin_Link" style={{ color: "yellow" }}>
+        <Link to="/" className="admin_Link" style={{ color: "white" }}>
           Admin Portal
         </Link>{" "}
         <Link to="/student" style={{ color: "yellow" }}>

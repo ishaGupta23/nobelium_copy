@@ -15,14 +15,14 @@
 
 .left-section {
 
-    background-color: blue;
+    background-color: rgb(182, 182, 242);
     text-align: center;
     /* margin-left: 20%; */
     margin-top: 5rem;
 }
 
 .btn {
-    background-color: rgb(69, 139, 0);
+    background-color: rgb(102, 183, 22);
     padding: .5rem;
     border-radius: .7rem;
 }
@@ -32,7 +32,7 @@
 }
 
 .right-section {
-    background-color: green;
+    background-color: rgb(140, 135, 242);
     width: 50%;
     height: 35rem;
     margin-top: 3rem;
